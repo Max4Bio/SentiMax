@@ -1,0 +1,11 @@
+README.md
+setup.py
+sentimax/__init__.py
+sentimax/entitizer.py
+sentimax/make_test.py
+sentimax/sentimax.py
+sentimax/spacy_trainer.py
+sentimax_pkg_Max4Bio.egg-info/PKG-INFO
+sentimax_pkg_Max4Bio.egg-info/SOURCES.txt
+sentimax_pkg_Max4Bio.egg-info/dependency_links.txt
+sentimax_pkg_Max4Bio.egg-info/top_level.txt

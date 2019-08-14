@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: sentimax-pkg-Max4Bio
+Version: 0.0.1
+Summary: Next-Geration Sentiment package for german
+Home-page: https://github.com/Max4Bio/SentiMax/
+Author: Max4Bio
+Author-email: maximilian.rosen@gmx.de
+License: UNKNOWN
+Description: # SentiMax - Next-Generation Sentiment-Analysis with spaCy for german
+        ## This is currently under construction
+        ### Describtion and updates will follow soon
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

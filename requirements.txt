@@ -1,0 +1,12 @@
+spacy
+pickle
+numpy
+pandas
+matplotlib
+tqdm
+seaborn
+IPython
+__future__
+random
+spacy_sentiws
+pathlib
